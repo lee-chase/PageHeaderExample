@@ -1,0 +1,34 @@
+{
+  "name": "pageheaderexample",
+  "main": "src/index.js",
+  "dependencies": {
+    "@carbon/ibm-cloud-cognitive": "0.34.6",
+    "@carbon/icons-react": "10.29.0",
+    "@carbon/layout": "10.22.0",
+    "@carbon/motion": "10.15.0",
+    "@carbon/themes": "10.31.0",
+    "@carbon/type": "10.25.0",
+    "carbon-components-react": "7.32.0",
+    "node-sass": "4.14.1",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-scripts": "3.4.4"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "description": "",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
